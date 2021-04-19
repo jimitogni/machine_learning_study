@@ -7,14 +7,14 @@
 **/*.git
 **/*.h5
 .git/
-monkeys_bread/dataset/
-dataset/dataset/
-dogs_bread/images/
-dataset/
-deep_coffee/
-monkeys_v2/training/
-monkeys_bread/dataset/
-dog_breed/test/
-dog_breed/train/
-monkeys_v2/validation/
+monkeys_bread/dataset
+dataset/dataset
+dogs_bread/images
+dataset
+deep_coffee
+monkeys_v2/training
+monkeys_bread/dataset
+dog_breed/test
+dog_breed/train
+monkeys_v2/validation
 
